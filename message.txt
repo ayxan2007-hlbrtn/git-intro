@@ -1,1 +1,4 @@
+
 Feature deyir: Sag ol!
+Main deyir: Salam!
+
